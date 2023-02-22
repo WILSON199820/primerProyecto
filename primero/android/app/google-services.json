@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985090241978",
+    "project_id": "udec-77c9c",
+    "storage_bucket": "udec-77c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985090241978:android:e45311fc55bb1fa7c95983",
+        "android_client_info": {
+          "package_name": "co.edu.ucundinamarca.primero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985090241978-e8pibi34e83lcd65jbljmo7e7o3tcroc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABlTuDTLMpP72uuqCCdq-iASerkTxCG6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985090241978-e8pibi34e83lcd65jbljmo7e7o3tcroc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
